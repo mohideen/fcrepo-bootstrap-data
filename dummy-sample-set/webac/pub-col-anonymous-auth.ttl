@@ -1,0 +1,4 @@
+<> a acl:Authorization ;
+   acl:agent foaf:Agent ;
+   acl:mode acl:Read ;
+   acl:accessTo <../public-collection> .

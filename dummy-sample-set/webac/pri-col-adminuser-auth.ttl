@@ -1,0 +1,4 @@
+<> a acl:Authorization ;
+   acl:agent "adminuser" ;
+   acl:mode acl:Read, acl:Write, acl:Control ;
+   acl:accessTo <../private-collection> .
