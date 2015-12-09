@@ -1,0 +1,2 @@
+<> a pcdm:Collection ;
+   dc:title "Katherine Anne Porter Correspondence" .

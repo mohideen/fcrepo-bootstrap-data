@@ -1,0 +1,4 @@
+<> a ldp:IndirectContainer ;
+  ldp:membershipResource <.> ;
+  ldp:hasMemberRelation pcdm:hasMember ;
+  ldp:insertedContentRelation ore:proxyFor .  
