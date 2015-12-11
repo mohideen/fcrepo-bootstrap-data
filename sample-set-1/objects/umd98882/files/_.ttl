@@ -1,0 +1,3 @@
+<> a ldp:DirectContainer ;
+  ldp:membershipResource <.> ;
+  ldp:hasMemberRelation pcdm:hasMember .
